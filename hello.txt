@@ -8,3 +8,4 @@ hello git!
 hello git!
 hello git! master test
 hello git! hot-fix test
+我要被拉取了，拉去后会自动提交到本地仓库
